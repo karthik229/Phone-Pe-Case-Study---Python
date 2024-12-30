@@ -17,11 +17,11 @@ This project focuses on analyzing transaction and demographic data from PhonePe,
 
 ## 1. Data Sources
 Datasets: Multiple Excel files containing:
-state_txn_users_df: Transaction and user data at the state level.
-state_txn_split_df: Breakdown of transaction types at the state level.
-state_device_data_df: Device brand usage data at the state level.
-district_txn_users_df: Transaction and user data at the district level.
-district_demographics_df: Demographic details for each district.
+1. state_txn_users_df: Transaction and user data at the state level.
+2. state_txn_split_df: Breakdown of transaction types at the state level.
+3. state_device_data_df: Device brand usage data at the state level.
+4. district_txn_users_df: Transaction and user data at the district level.
+5. district_demographics_df: Demographic details for each district.
 
 ## 2. Analysis
 Tasks Completed:
