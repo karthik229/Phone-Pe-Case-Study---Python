@@ -27,7 +27,7 @@ Datasets: Multiple Excel files containing:
 Tasks Completed:
 Data loading, cleaning, and integration.
 EDA to identify transaction trends, demographic correlations, and device usage patterns.
-Advanced SQL queries and Python analysis for deeper insights.
+Python analysis for deeper insights.
 Visualization of key metrics and findings.
 
 ## 3. Findings
